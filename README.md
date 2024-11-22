@@ -1,13 +1,13 @@
 # Examen_parcial3
 https://github.com/luciaabad/Examen_parcial3.git
-<<<<<<< lucia
+
 Definición de la estructura Estudiante:
 La estructura Estudiante tiene tres campos: nombre (cadena de caracteres de longitud 50), edad (entero) y promedio (número flotante).
 Función mostrarEstudiante:
 Esta función recibe como argumento una estructura Estudiante y luego imprime los valores de sus campos usando printf.
 Función main:
 En el main, se crea un objeto estudiante1 de tipo Estudiante y se inicializa con valores específicos para el nombre, edad y promedio. Luego, se llama a la función mostrarEstudiante para imprimir los datos.
-=======
+
 # Gestión de Estudiantes
 
 Este proyecto implementa un sistema en C++ para gestionar la información de estudiantes, sus materias inscritas, y su registro de asistencias. Además, incluye manejo de excepciones para situaciones inesperadas.
@@ -65,8 +65,6 @@ El programa incluye un ejemplo de uso en la función `main()`:
 3. Registra asistencias.
 4. Muestra la información completa del estudiante.
 5. Maneja excepciones, como intentar agregar materias duplicadas.
-
-=======
 
 # Preguntas y Respuestas sobre Conceptos Básicos de C y C++
 
@@ -152,5 +150,3 @@ d) Una característica específica de C.
 Los **templates** en C++ son una característica poderosa que permite definir funciones y clases de manera **genérica**. Esto significa que las funciones y clases pueden trabajar con cualquier tipo de datos sin tener que duplicar el código para cada tipo específico. 
 
 Los templates permiten crear soluciones reutilizables y flexibles que se adaptan a diferentes tipos de datos de forma automática
->>>>>>> main
->>>>>>> main
