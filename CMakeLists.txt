@@ -20,7 +20,7 @@ target_include_directories(Examen_parcial3
         PRIVATE
         Ejercicio1_c
 )
-=======
+
 cmake_minimum_required(VERSION 3.29)
 project(ExParcial3)
 
